@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Dummy Text 1",
+    "description":"Lorem ipsum dolor sit amet, ut postea elaboraret sit, per id accusamus reprimique. Ne sit aperiam dolorum, aperiri maluisset ut quo. Id sit nemore voluptatibus.",
+    "image": "products_img.png"
+  },
+   {
+    "id":2,
+    "name":"Dummy Text 2",
+    "description":"Propriae partiendo iudicabit quo no. Quo posse fabulas scriptorem ea, qui ne ridens aliquid consectetuer, est illum postea persequeris cu. Eu dicant graeci saperet eum, ne doming doctus pro.",
+    "image": "products_img.png"
+  },
+   {
+    "id":3,
+    "name":"Dummy Text3",
+    "description":" Nonumes assueverit philosophia duo ea, duo cu exerci dissentiet. Nam in tibique antiopam complectitur. Sed cu verear meliore instructior, has te debet tritani.",
+    "image": "products_img.png"
+  }
+]

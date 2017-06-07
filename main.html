@@ -1,0 +1,22 @@
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="http://blog.caranddriver.com/wp-content/uploads/2017/01/2017-EC-Small-Cars-Mazda-3-hatchback.jpg">
+        </div>
+        <div class="col-md-8">
+            <h1>Auto Dealers</h1>
+            <p class="lead">We help you find the best possible car that matches you interest for the best possible price.</p>
+        </div>
+    </div>
+</div>
+
+<!-- row of columns -->
+<div id="matter" class="row">
+    <!--          Loop to get all the records-->
+    <div ng-repeat="serv in mainservices">
+        <div class="col-lg-4">
+            <h2>{{serv.title}}</h2>
+            <p>{{serv.text}}</p>
+        </div>
+    </div>
+</div>
